@@ -5,50 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0849515-2d3f-4ad1-b8e1-bd31f7b1f36e" name="Changes" comment="Aggiunte immagini">
-      <change afterPath="$PROJECT_DIR$/img/classica/classica1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/classica/classica10.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/classica/classica11.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/classica/classica12.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/classica/classica13.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/classica/classica14.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/classica/classica15.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/classica/classica16.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/classica/classica17.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/classica/classica18.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/classica/classica19.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/classica/classica2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/classica/classica20.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/classica/classica21.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/classica/classica22.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/classica/classica3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/classica/classica4.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/classica/classica5.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/classica/classica6.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/classica/classica7.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/classica/classica8.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/classica/classica9.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/classica/classicasuonata.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/lavorazionigrezze/lavorazioni1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/lavorazionigrezze/lavorazioni10.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/lavorazionigrezze/lavorazioni11.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/lavorazionigrezze/lavorazioni12.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/lavorazionigrezze/lavorazioni13.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/lavorazionigrezze/lavorazioni14.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/lavorazionigrezze/lavorazioni15.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/lavorazionigrezze/lavorazioni16.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/lavorazionigrezze/lavorazioni2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/lavorazionigrezze/lavorazioni3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/lavorazionigrezze/lavorazioni4.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/lavorazionigrezze/lavorazioni5.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/lavorazionigrezze/lavorazioni6.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/lavorazionigrezze/lavorazioni7.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/lavorazionigrezze/lavorazioni8.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/lavorazionigrezze/lavorazioni9.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Acustiche.html" beforeDir="false" afterPath="$PROJECT_DIR$/Acustiche.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Classiche.html" beforeDir="false" afterPath="$PROJECT_DIR$/Classiche.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chi-siamo.html" beforeDir="false" afterPath="$PROJECT_DIR$/chi-siamo.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contatti.html" beforeDir="false" afterPath="$PROJECT_DIR$/contatti.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/riparazioni.html" beforeDir="false" afterPath="$PROJECT_DIR$/riparazioni.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -122,7 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1781778953860</updated>
       <workItem from="1781778955313" duration="3898000" />
-      <workItem from="1781783803809" duration="2121000" />
+      <workItem from="1781783803809" duration="2869000" />
     </task>
     <task id="LOCAL-00001" summary="Aggiunte">
       <option name="closed" value="true" />
@@ -148,7 +110,15 @@
       <option name="project" value="LOCAL" />
       <updated>1781784678047</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Aggiunte immagini">
+      <option name="closed" value="true" />
+      <created>1781798094828</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1781798094828</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
