@@ -515,7 +515,7 @@ section {
 .cta-bottega {
   text-align: center;
   background: linear-gradient(rgba(14, 10, 7, .85), rgba(14, 10, 7, .92)),
-  url('/img/parrataangolazione1.jpeg') center/cover;
+  url('../img/parrataangolazione1.jpeg') center/cover;
 }
 
 .cta-bottega h2 {
