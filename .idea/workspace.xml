@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0849515-2d3f-4ad1-b8e1-bd31f7b1f36e" name="Changes" comment="Aggiunte immagini">
+    <list default="true" id="c0849515-2d3f-4ad1-b8e1-bd31f7b1f36e" name="Changes" comment="Fix qua e la trallalà!">
       <change beforePath="$PROJECT_DIR$/Acustiche.html" beforeDir="false" afterPath="$PROJECT_DIR$/Acustiche.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classiche.html" beforeDir="false" afterPath="$PROJECT_DIR$/Classiche.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chi-siamo.html" beforeDir="false" afterPath="$PROJECT_DIR$/chi-siamo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contatti.html" beforeDir="false" afterPath="$PROJECT_DIR$/contatti.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/riparazioni.html" beforeDir="false" afterPath="$PROJECT_DIR$/riparazioni.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1781778953860</updated>
       <workItem from="1781778955313" duration="3898000" />
-      <workItem from="1781783803809" duration="2869000" />
+      <workItem from="1781783803809" duration="3479000" />
     </task>
     <task id="LOCAL-00001" summary="Aggiunte">
       <option name="closed" value="true" />
@@ -118,7 +112,23 @@
       <option name="project" value="LOCAL" />
       <updated>1781798094828</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Fix qua e la trallalà!">
+      <option name="closed" value="true" />
+      <created>1781798853798</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1781798853798</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Fix qua e la trallalà!">
+      <option name="closed" value="true" />
+      <created>1781799292028</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1781799292028</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +137,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Aggiunte" />
     <MESSAGE value="Aggiunte immagini" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aggiunte immagini" />
+    <MESSAGE value="Fix qua e la trallalà!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix qua e la trallalà!" />
   </component>
 </project>
