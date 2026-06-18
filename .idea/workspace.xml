@@ -4,7 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0849515-2d3f-4ad1-b8e1-bd31f7b1f36e" name="Changes" comment="Aggiunte" />
+    <list default="true" id="c0849515-2d3f-4ad1-b8e1-bd31f7b1f36e" name="Changes" comment="Aggiunte">
+      <change afterPath="$PROJECT_DIR$/img/acusitche/acustica1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/acusitche/acustica10.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/acusitche/acustica11.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/acusitche/acustica12.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/acusitche/acustica13.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/acusitche/acustica14.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/acusitche/acustica15.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/acusitche/acustica2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/acusitche/acustica3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/acusitche/acustica4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/acusitche/acustica5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/acusitche/acustica6.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/acusitche/acustica7.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/acusitche/acustica8.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/acusitche/acustica9.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/acusitche/acusticasuonata.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/acusitche/cutaway/cutaway1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/acusitche/cutaway/cutaway2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/acusitche/cutaway/cutaway3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/acusitche/cutaway/cutaway4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/acusitche/cutaway/cutaway5.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Acustiche.html" beforeDir="false" afterPath="$PROJECT_DIR$/Acustiche.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,47 +38,50 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "matteoromano12"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;matteoromano12&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/matteoromano12/liuteriafontana.git",
-    "accountId": "a06cf9ad-ca4f-48e0-800c-7a369b31204f"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/matteoromano12/liuteriafontana.git&quot;,
+    &quot;accountId&quot;: &quot;a06cf9ad-ca4f-48e0-800c-7a369b31204f&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 6
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="3FJ2fOB1ddkdUmrUQDm6GMM0C0E" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/matteoromano/Desktop/Informatica/2025-2026/TPSI (WEB APPS)/liuteriafontana/img",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/matteoromano/Desktop/Informatica/2025-2026/TPSI (WEB APPS)/liuteriafontana/img&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img/acusitche/cutaway" />
+      <recent name="$PROJECT_DIR$/img/acusitche" />
+      <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -72,7 +100,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1781778953860</updated>
-      <workItem from="1781778955313" duration="3257000" />
+      <workItem from="1781778955313" duration="3898000" />
+      <workItem from="1781783803809" duration="811000" />
     </task>
     <task id="LOCAL-00001" summary="Aggiunte">
       <option name="closed" value="true" />
