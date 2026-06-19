@@ -1,18 +1,18 @@
 <!doctype html>
 <html lang="it">
 <head><link rel="icon" type="image/png" href="img/logobiancosenzasfondoskinny.png">
-<meta charset="utf-8"/>
-<meta name="viewport" content="width=device-width,initial-scale=1"/>
-<title>Bio — Liuteria Fontana, Fagnano Olona</title>
-<meta name="description" content="La storia della Liuteria Fontana: una bottega artigiana di Fagnano Olona dedicata alla costruzione e cura delle chitarre. Artigianato, cura, tempo."/>
-<link rel="canonical" href="/chi-siamo.html"/>
-<meta property="og:title" content="Chi siamo — Liuteria Fontana"/>
-<meta property="og:description" content="La filosofia di una bottega artigiana di chitarre."/>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;1,300;1,400&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-<link rel="stylesheet" href="css/style.css">
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Bio — Liuteria Fontana, Fagnano Olona</title>
+  <meta name="description" content="La storia della Liuteria Fontana: una bottega artigiana di Fagnano Olona dedicata alla costruzione e cura delle chitarre. Artigianato, cura, tempo."/>
+  <link rel="canonical" href="/chi-siamo.html"/>
+  <meta property="og:title" content="Chi siamo — Liuteria Fontana"/>
+  <meta property="og:description" content="La filosofia di una bottega artigiana di chitarre."/>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;1,300;1,400&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 
@@ -20,30 +20,31 @@
   <a class="nav-brand" href="index.html"><img src="img/logobiancosenzasfondoskinny.png"></a>
   <button class="nav-toggle" aria-label="menu"><i class="fa-solid fa-bars"></i></button>
   <ul class="nav-links">
-    <li><a href="index.html">Home</a></li>
+    <li><a href="index.html" data-it="Home" data-en="Home">Home</a></li>
     <li class="dropdown">
-      <a href="#" class="dropdown-toggle">Strumenti <i class="fa-solid fa-chevron-down"></i></a>
+      <a href="#" class="dropdown-toggle" data-it="Strumenti <i class='fa-solid fa-chevron-down'></i>" data-en="Instruments <i class='fa-solid fa-chevron-down'></i>">Strumenti <i class="fa-solid fa-chevron-down"></i></a>
       <ul class="dropdown-menu">
-        <li><a href="Acustiche.html">Acustiche</a></li>
-        <li><a href="Classiche.html">Classiche</a></li>
+        <li><a href="Acustiche.html" data-it="Acustiche" data-en="Acoustic">Acustiche</a></li>
+        <li><a href="Classiche.html" data-it="Classiche" data-en="Classical">Classiche</a></li>
       </ul>
     </li>
-    <li><a href="riparazioni.html">Riparazioni</a></li>
-    <li><a href="chi-siamo.html">Bio</a></li>
-    <li><a href="contatti.html">Contatti</a></li>
+    <li><a href="riparazioni.html" data-it="Riparazioni" data-en="Repairs">Riparazioni</a></li>
+    <li><a href="chi-siamo.html" data-it="Bio" data-en="Bio">Bio</a></li>
+    <li><a href="contatti.html" data-it="Contatti" data-en="Contact">Contatti</a></li>
+    <li><button id="lang-toggle" class="btn-lang">🇬🇧 EN</button></li>
   </ul>
 </nav>
 
 <header class="page-hero" data-bg style="--bg-img:url('https://images.unsplash.com/photo-1525201548942-d8732f6617a0?w=1800&q=80')">
-  <h1>un po' di me</h1>
+  <h1 data-it="un po' di me" data-en="a bit about me">un po' di me</h1>
 </header>
 
 <section>
   <div class="container split reveal">
     <div class="split-img" style="background-image:url('https://images.unsplash.com/photo-1525201548942-d8732f6617a0?w=1200&q=80')"></div>
     <div>
-      <span class="eyebrow">La storia</span>
-      <p style="color:#9c8e78;font-style:italic">Biografia da completare</p>
+      <span class="eyebrow" data-it="La storia" data-en="The story">La storia</span>
+      <p style="color:#9c8e78;font-style:italic" data-it="Biografia da completare" data-en="Biography to be completed">Biografia da completare</p>
     </div>
   </div>
 </section>
@@ -51,32 +52,40 @@
 <section class="why" style="padding-top:80px;padding-bottom:80px">
   <div class="container">
     <div class="section-head reveal">
-      <h2>Artigianato. <em>Cura.</em> Lentezza consapevole.</h2>
+      <h2 data-it="Artigianato. <em>Cura.</em> Lentezza consapevole." data-en="Craft. <em>Care.</em> Conscious slowness.">Artigianato. <em>Cura.</em> Lentezza consapevole.</h2>
     </div>
     <div class="why-grid">
-      <div class="why-item reveal"><i class="fa-solid fa-tree"></i><h4>Legno</h4><p>Materia viva, scelta una a una. Stagionatura naturale, mai accelerata.</p></div>
-      <div class="why-item reveal"><i class="fa-solid fa-hand-holding-heart"></i><h4>Mano</h4><p>Nessuna catena di montaggio. Ogni gesto è del liutaio, fino all'ultima vernice.</p></div>
-      <div class="why-item reveal"><i class="fa-solid fa-hourglass-half"></i><h4>Tempo</h4><p>Un buon strumento non si fa di fretta. Aspettiamo che il legno parli.</p></div>
-      <div class="why-item reveal"><i class="fa-solid fa-music"></i><h4>Suono</h4><p>L'obiettivo non è la perfezione, ma la voce. Personale, riconoscibile, viva.</p></div>
+      <div class="why-item reveal"><i class="fa-solid fa-tree"></i><h4 data-it="Legno" data-en="Wood">Legno</h4><p data-it="Materia viva, scelta una a una. Stagionatura naturale, mai accelerata." data-en="Living material, chosen one by one. Natural seasoning, never rushed.">Materia viva, scelta una a una. Stagionatura naturale, mai accelerata.</p></div>
+      <div class="why-item reveal"><i class="fa-solid fa-hand-holding-heart"></i><h4 data-it="Mano" data-en="Hand">Mano</h4><p data-it="Nessuna catena di montaggio. Ogni gesto è del liutaio, fino all'ultima vernice." data-en="No assembly line. Every gesture belongs to the luthier, down to the last coat of varnish.">Nessuna catena di montaggio. Ogni gesto è del liutaio, fino all'ultima vernice.</p></div>
+      <div class="why-item reveal"><i class="fa-solid fa-hourglass-half"></i><h4 data-it="Tempo" data-en="Time">Tempo</h4><p data-it="Un buon strumento non si fa di fretta. Aspettiamo che il legno parli." data-en="A good instrument cannot be rushed. We wait for the wood to speak.">Un buon strumento non si fa di fretta. Aspettiamo che il legno parli.</p></div>
+      <div class="why-item reveal"><i class="fa-solid fa-music"></i><h4 data-it="Suono" data-en="Sound">Suono</h4><p data-it="L'obiettivo non è la perfezione, ma la voce. Personale, riconoscibile, viva." data-en="The goal is not perfection, but voice. Personal, recognisable, alive.">L'obiettivo non è la perfezione, ma la voce. Personale, riconoscibile, viva.</p></div>
     </div>
   </div>
 </section>
 
 <section class="cta-bottega">
   <div class="container reveal">
-    <h2>Passa in <em>bottega</em></h2>
+    <h2 data-it="Passa in <em>bottega</em>" data-en="Come by the <em>workshop</em>">Passa in <em>bottega</em></h2>
     <div class="cta-buttons">
-      <a class="btn btn-filled" href="tel:+393469808865"><i class="fa-solid fa-phone"></i> Chiama ora</a>
-      <a class="btn" href="contatti.html#dove">Vieni a trovarci</a>
+      <a class="btn btn-filled" href="tel:+393469808865"><i class="fa-solid fa-phone"></i> <span data-it="Chiama ora" data-en="Call now">Chiama ora</span></a>
+      <a class="btn" href="contatti.html#dove" data-it="Vieni a trovarci" data-en="Find us">Vieni a trovarci</a>
     </div>
   </div>
 </section>
 
 <footer class="foot">
   <div class="foot-grid">
-    <div><div class="foot-brand">Liuteria <span>Fontana</span></div><p>Bottega artigiana di chitarre classiche e acustiche.</p></div>
-    <div><h5>Bottega</h5><ul><li><a href="Acustiche.html">Chitarre Classiche</a></li><li><a href="Classiche.html">Chitarre Acustiche</a></li><li><a href="riparazioni.html">Riparazioni</a></li><li><a href="chi-siamo.html">Chi siamo</a></li></ul></div>
-    <div><h5>Contatti</h5><ul><li>Via G. Mazzini, 14</li><li>21054 Fagnano Olona (VA)</li><li><a href="tel:+393469808865">346 980 8865</a></li></ul></div>
+    <div><div class="foot-brand">Liuteria <span>Fontana</span></div><p data-it="Bottega artigiana di chitarre classiche e acustiche." data-en="Artisan workshop for classical and acoustic guitars.">Bottega artigiana di chitarre classiche e acustiche.</p></div>
+    <div><h5 data-it="Bottega" data-en="Workshop">Bottega</h5><ul>
+      <li><a href="Acustiche.html" data-it="Chitarre Acustiche" data-en="Acoustic Guitars">Chitarre Acustiche</a></li>
+      <li><a href="Classiche.html" data-it="Chitarre Classiche" data-en="Classical Guitars">Chitarre Classiche</a></li>
+      <li><a href="riparazioni.html" data-it="Riparazioni" data-en="Repairs">Riparazioni</a></li>
+      <li><a href="chi-siamo.html" data-it="Chi siamo" data-en="About us">Chi siamo</a></li>
+    </ul></div>
+    <div><h5 data-it="Contatti" data-en="Contact">Contatti</h5><ul>
+      <li>Via G. Mazzini, 14</li><li>21054 Fagnano Olona (VA)</li>
+      <li><a href="tel:+393469808865">346 980 8865</a></li>
+    </ul></div>
   </div>
   <div class="foot-bottom"><span>© <span id="y"></span> Liuteria Fontana</span><span>Fagnano Olona · Varese</span></div>
 </footer>
@@ -84,5 +93,6 @@
 <a class="wa" href="https://wa.me/393469808865" target="_blank" rel="noopener" aria-label="WhatsApp"><i class="fa-brands fa-whatsapp"></i></a>
 <script>document.getElementById('y').textContent=new Date().getFullYear();</script>
 <script src="js/app.js"></script>
+<script src="js/translate.js"></script>
 </body>
 </html>

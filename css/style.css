@@ -1088,3 +1088,17 @@ footer {
   height: 70px;
   width: auto;
 }
+
+.btn-lang {
+  background: none;
+  border: 1px solid currentColor;
+  color: inherit;
+  padding: 4px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.85rem;
+  font-family: inherit;
+  opacity: 0.8;
+  transition: opacity 0.2s;
+}
+.btn-lang:hover { opacity: 1; }
