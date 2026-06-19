@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0849515-2d3f-4ad1-b8e1-bd31f7b1f36e" name="Changes" comment="Fix qua e la trallalà!">
-      <change beforePath="$PROJECT_DIR$/Acustiche.html" beforeDir="false" afterPath="$PROJECT_DIR$/Acustiche.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classiche.html" beforeDir="false" afterPath="$PROJECT_DIR$/Classiche.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/riparazioni.html" beforeDir="false" afterPath="$PROJECT_DIR$/riparazioni.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logobianco.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logobiancosenzasfondoskinny.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logosenzasfondobianco.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,11 +61,11 @@
       <recent name="$PROJECT_DIR$/img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+      <recent name="$PROJECT_DIR$/lang" />
       <recent name="$PROJECT_DIR$/img/classica" />
       <recent name="$PROJECT_DIR$/img/lavorazionigrezze" />
       <recent name="$PROJECT_DIR$/img" />
-      <recent name="$PROJECT_DIR$/img/acusitche/cutaway" />
-      <recent name="$PROJECT_DIR$/img/acusitche" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -80,7 +83,10 @@
       <option name="presentableId" value="Default" />
       <updated>1781778953860</updated>
       <workItem from="1781778955313" duration="3898000" />
-      <workItem from="1781783803809" duration="5781000" />
+      <workItem from="1781783803809" duration="6230000" />
+      <workItem from="1781819821943" duration="1915000" />
+      <workItem from="1781876861989" duration="11000" />
+      <workItem from="1781898710563" duration="1054000" />
     </task>
     <task id="LOCAL-00001" summary="Aggiunte">
       <option name="closed" value="true" />
@@ -178,7 +184,23 @@
       <option name="project" value="LOCAL" />
       <updated>1781802349466</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Fix qua e la trallalà!">
+      <option name="closed" value="true" />
+      <created>1781802656181</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1781802656181</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Fix qua e la trallalà!">
+      <option name="closed" value="true" />
+      <created>1781804741066</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1781804741066</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

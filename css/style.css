@@ -1083,3 +1083,8 @@ footer {
     border-top: 1px solid var(--line) !important;
   }
 }
+
+.nav-brand img {
+  height: 70px;
+  width: auto;
+}
