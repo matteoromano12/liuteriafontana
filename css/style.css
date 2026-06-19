@@ -135,7 +135,7 @@ a:hover {
   }
 
   .nav-links.open {
-    max-height: 400px
+    max-height: 600px
   }
 
   .nav-links li {
@@ -145,6 +145,11 @@ a:hover {
   .nav-links a {
     display: block;
     padding: 18px 24px
+  }
+
+  .nav-links li:has(#lang-toggle) {
+    border-top: 1px solid var(--line);
+    padding: 16px 24px;
   }
 }
 
