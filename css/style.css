@@ -181,6 +181,8 @@ a:hover {
 }
 
 .hero-inner {
+  display: flex;
+  flex-direction: column;
   position: relative;
   z-index: 2;
   max-width: 900px
@@ -611,6 +613,52 @@ section {
   background: var(--bg-card) center/cover;
   border: 1px solid var(--line);
   margin-top: 47.53px
+}
+
+.split.split-float {
+  display: block;
+  overflow: hidden;
+}
+
+.split.split-float .split-img {
+  width: 42%;
+  max-width: 420px;
+  float: left;
+  margin-right: 60px;
+  margin-bottom: 24px;
+  shape-outside: inset(0);
+}
+
+@media (max-width: 880px) {
+  .split.split-float .split-img {
+    float: none;
+    width: 100%;
+    max-width: none;
+    margin-right: 0;
+  }
+}
+
+.split.split-float-right {
+  display: block;
+  overflow: hidden;
+}
+
+.split.split-float-right .split-img {
+  width: 42%;
+  max-width: 420px;
+  float: right;
+  margin-left: 60px;
+  margin-bottom: 24px;
+  shape-outside: inset(0);
+}
+
+@media (max-width: 880px) {
+  .split.split-float-right .split-img {
+    float: none;
+    width: 100%;
+    max-width: none;
+    margin-left: 0;
+  }
 }
 
 .split h2 {
@@ -1107,3 +1155,10 @@ footer {
   transition: opacity 0.2s;
 }
 .btn-lang:hover { opacity: 1; }
+
+.hero-inner img {
+  height: 150px;
+  width: auto;
+  object-fit: contain; /* extra sicurezza: mai stirare anche se width/height vengono entrambe fissate da qualche altra regola */
+  max-width: 100%;
+}
