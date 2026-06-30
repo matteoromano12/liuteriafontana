@@ -167,7 +167,7 @@ a:hover {
 .hero-bg {
   position: absolute;
   inset: 0;
-  background: radial-gradient(ellipse at center, rgba(184, 146, 74, .08), transparent 60%),
+  background: radial-gradient(ellipse at center, rgba(184, 146, 74, .08), transparent 100%),
   linear-gradient(180deg, #0e0a07 0%, #15100b 100%);
 }
 
@@ -1159,6 +1159,36 @@ footer {
 .hero-inner img {
   height: 150px;
   width: auto;
-  object-fit: contain; /* extra sicurezza: mai stirare anche se width/height vengono entrambe fissate da qualche altra regola */
+  object-fit: contain;
   max-width: 100%;
+}
+
+.split-img-stack {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.split.split-float-right .split-img-stack {
+  width: 42%;
+  max-width: 420px;
+  float: right;
+  margin-left: 60px;
+  margin-bottom: 24px;
+  shape-outside: inset(0);
+}
+
+.split-img-item {
+  aspect-ratio: 4/5;
+  background: var(--bg-card) center/cover;
+  border: 1px solid var(--line);
+}
+
+@media (max-width: 880px) {
+  .split.split-float-right .split-img-stack {
+    float: none;
+    width: 100%;
+    max-width: none;
+    margin-left: 0;
+  }
 }
