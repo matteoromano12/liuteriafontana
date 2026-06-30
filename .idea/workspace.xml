@@ -4,29 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0849515-2d3f-4ad1-b8e1-bd31f7b1f36e" name="Changes" comment="Fix qua e la trallalà!">
-      <change afterPath="$PROJECT_DIR$/img/riparazioni/riparazioni1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/riparazioni/riparazioni10.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/riparazioni/riparazioni11.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/riparazioni/riparazioni12.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/riparazioni/riparazioni13.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/riparazioni/riparazioni14.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/riparazioni/riparazioni15.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/riparazioni/riparazioni16.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/riparazioni/riparazioni17.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/riparazioni/riparazioni18.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/riparazioni/riparazioni19.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/riparazioni/riparazioni2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/riparazioni/riparazioni20.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/riparazioni/riparazioni21.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/riparazioni/riparazioni3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/riparazioni/riparazioni4.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/riparazioni/riparazioni5.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/riparazioni/riparazioni6.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/riparazioni/riparazioni7.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/riparazioni/riparazioni8.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/riparazioni/riparazioni9.jpeg" afterDir="false" />
+    <list default="true" id="c0849515-2d3f-4ad1-b8e1-bd31f7b1f36e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/riparazioni.html" beforeDir="false" afterPath="$PROJECT_DIR$/riparazioni.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -116,7 +98,7 @@
       <workItem from="1782388864511" duration="34000" />
       <workItem from="1782389317556" duration="15000" />
       <workItem from="1782389348721" duration="48000" />
-      <workItem from="1782765141918" duration="7663000" />
+      <workItem from="1782765141918" duration="8814000" />
     </task>
     <task id="LOCAL-00001" summary="Aggiunte">
       <option name="closed" value="true" />
@@ -294,7 +276,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782831949114</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Fix qua e la trallalà!">
+      <option name="closed" value="true" />
+      <created>1782832488777</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1782832488777</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

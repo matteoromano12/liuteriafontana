@@ -1192,3 +1192,93 @@ footer {
     margin-left: 0;
   }
 }
+
+#galleryViewer{
+  position:fixed;
+  inset:0;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  background:rgba(0,0,0,.85);
+  opacity:0;
+  visibility:hidden;
+  transition:.3s;
+  z-index:9999;
+}
+
+#galleryViewer.open{
+  opacity:1;
+  visibility:visible;
+}
+
+#gvImage{
+  max-width:90vw;
+  max-height:90vh;
+  object-fit:contain;
+
+  transform:scale(.85);
+  transition:.3s;
+  user-select:none;
+}
+
+#galleryViewer.open #gvImage{
+  transform:scale(1);
+}
+
+.gv-btn,
+.gv-close{
+  position:absolute;
+  width:55px;
+  height:55px;
+  border:none;
+  border-radius:50%;
+  cursor:pointer;
+
+  background:rgba(255,255,255,.12);
+  backdrop-filter:blur(8px);
+
+  color:white;
+  font-size:20px;
+
+  transition:.2s;
+}
+
+.gv-btn:hover,
+.gv-close:hover{
+  background:rgba(255,255,255,.22);
+}
+
+.gv-prev{
+  left:30px;
+}
+
+.gv-next{
+  right:30px;
+}
+
+.gv-close{
+  top:25px;
+  right:25px;
+}
+
+.gv-overlay{
+  position:absolute;
+  inset:0;
+}
+
+@media(max-width:700px){
+
+  .gv-prev{
+    left:10px;
+  }
+
+  .gv-next{
+    right:10px;
+  }
+
+  .gv-btn{
+    width:45px;
+    height:45px;
+  }
+
+}

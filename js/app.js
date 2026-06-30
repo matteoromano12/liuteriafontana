@@ -35,3 +35,92 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 });
+
+const photos = [...document.querySelectorAll(".gallery .ph")];
+
+const viewer = document.getElementById("galleryViewer");
+const image = document.getElementById("gvImage");
+
+const prev = viewer.querySelector(".gv-prev");
+const next = viewer.querySelector(".gv-next");
+const close = viewer.querySelector(".gv-close");
+const overlay = viewer.querySelector(".gv-overlay");
+
+let current = 0;
+
+function getImage(div){
+  const bg = getComputedStyle(div).backgroundImage;
+  return bg.slice(5,-2);
+}
+
+function show(index){
+
+  current = index;
+
+  image.src = getImage(photos[index]);
+
+  viewer.classList.add("open");
+
+  document.body.style.overflow="hidden";
+
+}
+
+function hide(){
+
+  viewer.classList.remove("open");
+
+  document.body.style.overflow="";
+
+}
+
+function previous(){
+
+  current--;
+
+  if(current<0)
+    current=photos.length-1;
+
+  image.src=getImage(photos[current]);
+
+}
+
+function following(){
+
+  current++;
+
+  if(current>=photos.length)
+    current=0;
+
+  image.src=getImage(photos[current]);
+
+}
+
+photos.forEach((photo,index)=>{
+
+  photo.style.cursor="pointer";
+
+  photo.addEventListener("click",()=>show(index));
+
+});
+
+prev.onclick=previous;
+next.onclick=following;
+
+close.onclick=hide;
+overlay.onclick=hide;
+
+document.addEventListener("keydown",(e)=>{
+
+  if(!viewer.classList.contains("open"))
+    return;
+
+  if(e.key==="Escape")
+    hide();
+
+  if(e.key==="ArrowLeft")
+    previous();
+
+  if(e.key==="ArrowRight")
+    following();
+
+});
