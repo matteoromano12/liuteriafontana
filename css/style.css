@@ -176,7 +176,7 @@ a:hover {
   position: absolute;
   inset: 0;
   background: url('../img/homechitarra.jpg') center/cover;
-  opacity: .18;
+  opacity: .30;
   filter: grayscale(.4) sepia(.3);
 }
 
