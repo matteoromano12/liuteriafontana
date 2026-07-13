@@ -1042,9 +1042,9 @@ footer {
 
 
 .reveal {
-  opacity: 0;
-  transform: translateY(24px);
-  transition: opacity .9s ease, transform .9s ease
+  opacity: 1;
+  transform: none;
+  transition: none
 }
 
 .reveal.in {
