@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0849515-2d3f-4ad1-b8e1-bd31f7b1f36e" name="Changes" comment="Fix qua e la trallalà!">
+      <change afterPath="$PROJECT_DIR$/alessandro_zangrando.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gianmario_jama.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gianmario_jama_bozza.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/artisti/alessandro_zangrando.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/artisti/alessandro_zangrando2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/artisti/gianmario_jama.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/artisti/gianmario_jama2.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/famiglia.html" beforeDir="false" afterPath="$PROJECT_DIR$/famiglia.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,31 +52,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/matteoromano/Desktop/Informatica/2025-2026/TPSI (WEB APPS)/liuteriafontana/img&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/matteoromano/Desktop/Informatica/2025-2026/TPSI (WEB APPS)/liuteriafontana",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img/artisti" />
       <recent name="$PROJECT_DIR$/img/riparazioni" />
       <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/lang" />
-      <recent name="$PROJECT_DIR$/img/classica" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -98,6 +108,8 @@
       <workItem from="1782765141918" duration="9349000" />
       <workItem from="1783416524841" duration="51000" />
       <workItem from="1783594079918" duration="430000" />
+      <workItem from="1788862169039" duration="106000" />
+      <workItem from="1788862302826" duration="1924000" />
     </task>
     <task id="LOCAL-00001" summary="Aggiunte">
       <option name="closed" value="true" />
@@ -299,7 +311,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782834052307</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Fix qua e la trallalà!">
+      <option name="closed" value="true" />
+      <created>1788862247487</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1788862247487</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

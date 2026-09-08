@@ -470,6 +470,59 @@ section {
 }
 
 
+.instrument-cta {
+  display: flex;
+  align-items: center;
+  gap: 48px;
+  background: var(--bg-card);
+  border: 1px solid var(--line);
+  padding: 44px;
+  transition: border-color .5s ease;
+}
+
+.instrument-cta:hover {
+  border-color: var(--gold)
+}
+
+.instrument-cta-img {
+  width: 240px;
+  aspect-ratio: 4/5;
+  background: #1a130d center/cover;
+  flex-shrink: 0;
+}
+
+.instrument-cta-body {
+  flex: 1;
+}
+
+.instrument-cta-body h3 {
+  font-family: var(--serif);
+  font-weight: 400;
+  font-size: 1.9rem;
+  letter-spacing: .04em;
+  margin: 10px 0 16px;
+}
+
+.instrument-cta-body p {
+  color: var(--muted);
+  font-size: 1.05rem;
+  margin-bottom: 26px;
+}
+
+@media (max-width: 700px) {
+  .instrument-cta {
+    flex-direction: column;
+    text-align: center;
+    padding: 36px 28px;
+  }
+
+  .instrument-cta-img {
+    width: 100%;
+    max-width: 280px;
+  }
+}
+
+
 .why {
   background: var(--bg-soft);
   border-top: 1px solid var(--line);
